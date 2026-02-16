@@ -2,6 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Python**
+- 🧑🏽‍🏫 I'm currently pursuring my BASc in Cyber Operations at the University of Arizona
 
 ### 🛠 Tech Stack
 - **Languages:** HTML, CSS, Python
