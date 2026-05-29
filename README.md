@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Python**
-- 🧑🏽‍🏫 I'm currently pursuring my BASc in Cyber Operations at the University of Arizona
+- 🧑🏽‍🏫 I'm currently pursuring my Bachelors in Cyber Operations at the University of Arizona
 
 ### 🛠 Tech Stack
 - 🐍 Languages:
@@ -13,4 +13,4 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 
-- **Interests:** Cyber Operations, Digital Forensics
+- **Interests:** Cyber Operations, Digital Forensics, GRC and Policy
