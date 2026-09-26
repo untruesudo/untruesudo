@@ -7,7 +7,7 @@ $ cat currently.txt
 learning python · building generative visuals
 $ ls interests/
 cyber-operations  digital-forensics  grc-policy
-
+```
 ## 🌀 Featured
 
 **[Strange Attractor Visualizer](https://untruesudo.github.io/strange-attractor/)**
