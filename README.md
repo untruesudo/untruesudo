@@ -1,3 +1,5 @@
+<img src="banner.gif" width="100%" alt="untruesudo — cyber operations, digital forensics, GRC">
+
 # Hi there, I'm untruesudo 
 
 ### 👨‍💻 About Me
