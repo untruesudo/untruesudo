@@ -10,7 +10,10 @@ cyber-operations  digital-forensics  grc-policy
 ```
 ## 🌀 Featured
 
-**[Strange Attractor Visualizer](https://untruesudo.github.io/strange-attractor/)**
+**[BITROT_](https://untruesudo.github.io/bitrot-canvas/)**  
+Break your photos on purpose. Free in-browser glitch art with real JPEG byte corruption, pixel sorting and datamosh smears, plus GIF and WebM export. Nothing is uploaded. [Source](https://github.com/untruesudo/bitrot-canvas)
+
+**[Strange Attractor Visualizer](https://untruesudo.github.io/strange-attractor/)**  
 Clifford, Peter de Jong and Bedhead attractors rendered in the browser with log-density shading. Vanilla JS, zero dependencies. [Source](https://github.com/untruesudo/strange-attractor)
 
 ## 🧰 Toolbox
